@@ -2,6 +2,7 @@
 
 class Product{
     //comment this is a very long comment and even more comments
+    //I made a second comment as a test 
     private String id;
     private String name;
     private double price;
